@@ -1,0 +1,254 @@
+{
+    "translation": {
+        "headerPage": {
+            "homelyFood": "Homee Foodz",
+            "welcomeBack": "Welcome Back",
+            "profile": "Profile"
+        },
+        "languagesPage": {
+            "back": "Back",
+            "selectYourLanguage": " Select your language",
+            "submit": "Proceed"
+        },
+        "bottomTabPage": {
+            "home": "Home",
+            "search": "Search",
+            "cart": "Cart",
+            "account": "Account"
+        },
+        "homePage": {
+            "km": "km",
+            "mins": "mins",
+            "tryHomelyFoodz": "Try Homee Foodz",
+            "popularFoods": "Popular Foods",
+            "couponsForYou": "Coupons For You",
+            "quickFilter": "Eat What Makes you happy!!!",
+            "trySomethingNew": "Try Something New",
+            "topRatedCooks": "Top Rated Cooks",
+            "cookNearByYou": "Cooks near by you",
+            "seeAll": "See All",
+            "offersAroundYou": "Offers Around You",
+            "topHomeePicks": "Top Homee Picks For You",
+            "viewAll": "View All",
+            "viewMore": "view More",
+            "featuredcooksoffer": "Featured Cooks Offer",
+            "allCooksNearby": "All Cooks Nearby",
+            "discoverYourFavouriteRecipes": "Discover your favourite recipes",
+            "mostlovedfoods": "Most Loved Foods"
+        },
+        "addressPage": {
+            "deliveryLocation": "This will be your delivery location",
+            "streetErr": "Please Enter Street *",
+            "confirmAddress": "Confirm Address"
+        },
+        "cartDetailPage": {
+            "cart": "Cart",
+            "add": "ADD",
+            "applyCoupon": "APPLY COUPON",
+            "priceDetails": "PRICE DETAILS"
+        },
+        "favouritesPage": {
+            "favourites": "Favourites",
+            "tryHomelyFoodz": "Try Homee Foodz"
+        },
+        "foodDetailPage": {
+            "mins": "Mins",
+            "deliveryTime": "Delivery Time",
+            "costForTwo": "Cost For Two",
+            "recommended": "Recommended",
+            "specializedFood": "Specialized Food",
+            "add": "ADD",
+            "items": "Items",
+            "viewCart": "View cart",
+            "unserviceable": "Unserviceable"
+        },
+        "languagePage": {
+            "language": "Languages",
+            "tamil": "Tamil",
+            "english": "English",
+            "hindi": "Hindi",
+            "malayalam": "Malayalam",
+            "telugu": "Telugu",
+            "kannada": "Kannada",
+            "proceed": "Proceed"
+        },
+        "logInPage": {
+            "welcomeBack": "Welcome Back",
+            "signIntoContinue": "Sign into continue",
+            "mobileNo": "Mobile No",
+            "proceed": "Submit"
+        },
+        "notificationPage": {
+            "notification": "Notification"
+        },
+        "orderedFoodzPage": {
+            "favourites": "Favourites",
+            "orderId": "ORDER ID  :",
+            "date": "DATE :",
+            "quantity": " Quantity :",
+            "deliveryStatus": "Delivery Status",
+            "transactionStatus": "Transaction Status",
+            "transactionType": "Transaction Type",
+            "transactionId": "Transaction ID"
+        },
+        "orderReportPage": {
+            "orderReport": "Order Report",
+            "from": "From",
+            "upTo": "UpTo",
+            "orderId": "Order Id :"
+        },
+        "otpPage": {
+            "back": "Back",
+            "verifyYourMobileNo": "Verify Your Mobile No",
+            "enterYourOtpHere": "Enter your OTP here",
+            "proceed": "Verify & Proceed",
+            "resendOtp": "Resend OTP"
+        },
+        "productListPage": {
+            "trySomthingNewAtHomelyFoodz": "Try Somthing New At Homee Foodz",
+            "useCode": "Use Code :",
+            "homelyFoodzNearby": "Homee Foodz Nearby",
+            "sortOrFilter": "Sort / Filter",
+            "tryHomelyFoodz": "Try Homee Foodz",
+            "clearAll": "Clear All",
+            "sort": "Sort",
+            "foodzType": "Foodz Type",
+            "cuisines": "Cuisines",
+            "sortByPrice": "Sort By Price",
+            "apply": "Apply"
+        },
+        "profilePage": {
+            "account": "Account",
+            "profile": "Profile",
+            "edit": "Edit",
+            "applyCoupon": "APPLY COUPON",
+            "manageAddress": "Manage Address",
+            "favourites": "Favourites",
+            "language": "Languages",
+            "paymentMethods": "Payment Methods",
+            "wallet": "Wallet",
+            "orderedFoodz": "Ordered Foodz",
+            "support": "Support",
+            "help": "Terms & Conditions",
+            "logout": "Logout",
+            "trackYourOrder": "Track your order",
+            "orderHistory": "Order History"
+        },
+        "profileEditPage": {
+            "profileEdit": "Profile Edit",
+            "editAccount": "Edit Account",
+            "name": "Name",
+            "mobileNo": "Mobile No",
+            "email": "Email",
+            "update": "Update"
+        },
+        "searchPage": {
+            "pleaseSearchYourFoodzPreference": "Please Search Your Foodz Preference",
+            "mins": "Mins",
+            "dish": "Dish",
+            "cook": "Cook",
+            "sortBy": "Sort by",
+            "priceLowToHigh": "Low to High",
+            "priceHighToLow": "High to Low",
+            "preparationTime": "Preparation time"
+        },
+        "signUpPage": {
+            "back": "Back",
+            "registration": "Registration",
+            "firstName": "First Name",
+            "firstNameErr": "Please Enter First Name *",
+            "lastName": "Last Name",
+            "lastNameErr": "Please Enter Last Name *",
+            "emailId": "E-mail ID",
+            "emailIvalidErr": "Please Enter Valid Email",
+            "emailErr": "Please Enter Email *",
+            "proceed": "Proceed",
+            "singUp": "SignUp"
+        },
+        "supportPage": {
+            "profileEdit": "Profile Edit",
+            "name": "Name",
+            "emailId": "Email Id",
+            "mobileNo": "Mobile No",
+            "message": "Message",
+            "proceed": "Proceed"
+        },
+        "termsConditionsPage": {
+            "termsConditions": "Terms Conditions"
+        },
+        "walletPage": {
+            "wallet": "Wallet",
+            "homlyFoodsMoney": "Homee Foodz Money",
+            "totalBalance": "Total Balance",
+            "homlyFoodsText": "Homee Foodz can only be used for your food orders.",
+            "addMoney": "Add Money"
+        },
+        "cookSeeAllPage": {
+            "tryHomelyFoodz": "Try Homee Foodz",
+            "back": "Back"
+        },
+        "addMoneyPage": {
+            "addMoney": "Add Money",
+            "yourWalletBalance": "Your Wallet Balance",
+            "youCanAddUpto": "You Can Add Upto: ₹ 5000",
+            "enterAmount": "Enter Amount *",
+            "proceedToAdd": "Proceed To Add",
+            "note": "Note : ",
+            "rbi": "Homee Foodz money can't be transferred to your bank account as per RBI guidelines."
+        },
+        "manageAddressPage": {
+            "manageAddress": "Manage Address"
+        },
+        "couponDetailsPage": {
+            "couponDetails": "Coupon Details"
+        },
+        "cartPage": {
+            "applyCoupon": "APPLY COUPON",
+            "useWallet": "Use Wallet",
+            "priceDetails": "PRICE DETAILS",
+            "billDetails": "Bill Details",
+            "itemTotal": "Item total",
+            "discount": "Discount",
+            "deliveryCharge": "Delivery Charge",
+            "walletAmount": "Wallet Amount",
+            "walletBalance": "Wallet Balance",
+            "tax": "Tax",
+            "totalAmount": "TOTAL AMOUNT",
+            "deliverTo": "Deliver to",
+            "changeAddress": "CHANGE ADDRESS",
+            "checkOut": "Check Out",
+            "mins": "Mins",
+            "offers&Benefits": "Offers & Benefits",
+            "deliveryInstructions": "Delivery Instructions",
+            "deliveryAddress": "Delivery Address"
+        },
+        "addressChoosePage": {
+            "chooseAddress": "Choose Address",
+            "addAddress": "Add Address"
+        },
+        "orderedListPage": {
+            "orderId": "ORDER ID  :",
+            "trackYourOrder": "Track Your Order",
+            "waiting": "Waiting",
+            "underPreparation": "Under Preparation",
+            "prepared": "Prepared",
+            "pickedUp": "Picked Up",
+            "delivered": "Delivered"
+        },
+        "orderStepsPage": {
+            "orderReport": "Order Report",
+            "orderId": "Order Id",
+            "estimatedTime": "Estimated Time",
+            "mins": "Mins",
+            "orderPlaces": "Order Places",
+            "weHaveReceivedyourOrder": "We have received your Order",
+            "orderConfirmed": "Order Confirmed",
+            "cookAcceptedYourOrder": "Cook accepted your Order",
+            "pickedUp": "Picked Up",
+            "dunzoPickedYourOrder": "Dunzo picked your Order",
+            "orderDelivered": "Order Delivered",
+            "yourOrderHasBeenDelivered": "Your Order has been Delivered",
+            "trackYourOrder": "Track Your Order"
+        }
+    }
+}

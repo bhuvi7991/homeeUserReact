@@ -1,0 +1,239 @@
+{
+    "translation": {
+        "addMoneyPage": {
+            "addMoney": "पैसे जोड़ें",
+            "enterAmount": "राशी डालें *",
+            "note": "ध्यान दें : ",
+            "proceedToAdd": "जोड़ने के लिए आगे बढ़ें",
+            "rbi": "Homee Foodz का पैसा RBI के दिशानिर्देशों के अनुसार आपके बैंक खाते में स्थानांतरित नहीं किया जा सकता है.",
+            "youCanAddUpto": "आप तक जोड़ सकते हैं : ₹ 5000",
+            "yourWalletBalance": "आपका वॉलेट बैलेंस"
+        },
+        "addressChoosePage": {
+            "addAddress": "पता जोड़ें",
+            "chooseAddress": "पता चुनें"
+        },
+        "headerPage": {
+            "homelyFood": "घरेलू भोजन",
+            "welcomeBack": "वापसी पर स्वागत है",
+            "profile": "प्रोफ़ाइल"
+        },
+        "bottomTabPage": {
+            "home": "घर",
+            "search": "खोज",
+            "cart": "कार्ट",
+            "account": "लेखा"
+        },
+        "homePage": {
+            "km": "किमी",
+            "mins": "मिनट",
+            "tryHomelyFoodz": "घरेलू भोजन का प्रयास करें",
+            "popularFoods": "लोकप्रिय खाद्य पदार्थ",
+            "couponsForYou": "आपके लिए कूपन",
+            "quickFilter": "त्वरित फ़िल्टर",
+            "trySomethingNew": "कुछ नया करने का प्रयास करें",
+            "topRatedCooks": "शीर्ष रेटेड रसोइया",
+            "cookNearByYou": "आपके आस-पास खाना बनाती है",
+            "seeAll": "सभी देखें"
+        },
+        "cookSeeAllPage": {
+            "back": "वापस",
+            "tryHomelyFoodz": "घरेलू भोजन का प्रयास करें"
+        },
+        "couponDetailsPage": {
+            "couponDetails": "कूपन विवरण"
+        },
+        "addressPage": {
+            "deliveryLocation": "यह होगी आपकी डिलीवरी लोकेशन",
+            "streetErr": "कृपया स्ट्रीट दर्ज करें *",
+            "confirmAddress": "पते की पुष्टि"
+        },
+        "cartDetailPage": {
+            "cart": "कार्ट",
+            "add": "जोड़ें",
+            "applyCoupon": "कूपन लागू करें",
+            "priceDetails": "मूल्य विवरण"
+        },
+        "favouritesPage": {
+            "favourites": "पसंदीदा",
+            "tryHomelyFoodz": "घरेलू भोजन का प्रयास करें"
+        },
+        "foodDetailPage": {
+            "mins": "मिनट",
+            "deliveryTime": "डिलीवरी का समय",
+            "costForTwo": "दो के लिए लागत",
+            "recommended": "अनुशंसित",
+            "specializedFood": "विशेष भोजन",
+            "add": "जोड़ें",
+            "items": "आइटम",
+            "viewCart": "गाडी देंखे",
+            "unserviceable": "अनुपयोगी"
+        },
+        "languagesPage": {
+            "back": "वापस",
+            "selectYourLanguage": "अपनी भाषा का चयन करें",
+            "submit": "प्रस्तुत करना"
+        },
+        "languagePage": {
+            "language": "बोली",
+            "tamil": "तामिल",
+            "english": "अंग्रेज़ी",
+            "hindi": "हिंदी",
+            "malayalam": "मलयालम",
+            "telugu": "तेलुगू",
+            "kannada": "कन्नड़",
+            "proceed": "आगे बढ़ना"
+        },
+        "manageAddressPage": {
+            "manageAddress": "पता प्रबंधित करें"
+        },
+        "logInPage": {
+            "welcomeBack": "वापसी पर स्वागत है",
+            "signIntoContinue": "साइन इन करें जारी रखें",
+            "mobileNo": "मोबाइल नहीं है",
+            "proceed": "आगे बढ़ना"
+        },
+        "notificationPage": {
+            "notification": "अधिसूचना"
+        },
+        "orderedFoodzPage": {
+            "favourites": "पसंदीदा",
+            "orderId": "क्रम संख्या  :",
+            "date": "दिनांक :",
+            "quantity": " मात्रा :",
+            "deliveryStatus": "वितरण की स्थिति",
+            "transactionStatus": "लेन-देन की स्थिति",
+            "transactionType": "सौदे का प्रकार",
+            "transactionId": "लेन-देन आईडी"
+        },
+        "orderStepsPage": {
+            "cookAcceptedYourOrder": "कुक ने आपका आदेश स्वीकार कर लिया",
+            "dunzoPickedYourOrder": "Dunzo ने आपका ऑर्डर चुना",
+            "estimatedTime": "अनुमानित समय",
+            "mins": "मिनट",
+            "orderConfirmed": "ऑर्डर की पुष्टि की गई",
+            "orderDelivered": "आदेश दिया गया",
+            "orderId": "आदेश ID",
+            "orderPlaces": "आदेश स्थान",
+            "orderReport": "आदेश रिपोर्ट",
+            "pickedUp": "उठाया",
+            "trackYourOrder": "अपने आदेश को देखो",
+            "weHaveReceivedyourOrder": "हमें आपका आदेश मिल गया है",
+            "yourOrderHasBeenDelivered": "आपका ऑर्डर डिलीवर कर दिया गया है"
+        },
+        "orderReportPage": {
+            "orderReport": "आदेश रिपोर्ट",
+            "from": "से",
+            "upTo": "तक",
+            "orderId": "क्रम संख्या :"
+        },
+        "otpPage": {
+            "back": "वापस जाओ",
+            "verifyYourMobileNo": "अपना मोबाइल नंबर सत्यापित करें",
+            "enterYourOtpHere": "यहां अपना ओटीपी दर्ज करें",
+            "proceed": "आगे बढ़ना",
+            "resendOtp": "ओटीपी पुनः भेजें"
+        },
+        "productListPage": {
+            "trySomthingNewAtHomelyFoodz": "घरेलू खाद्य पदार्थों में कुछ नया आजमाएं",
+            "useCode": "कूपन कोड का उपयोग करें :",
+            "homelyFoodzNearby": "आस-पास के घरेलू भोजन",
+            "sortOrFilter": "तरह / फ़िल्टर",
+            "tryHomelyFoodz": "घरेलू भोजन का प्रयास करें",
+            "clearAll": "सभी साफ करें",
+            "sort": "तरह",
+            "foodzType": "खाद्य प्रकार",
+            "cuisines": "व्यंजनों",
+            "sortByPrice": "मूल्य के आधार पर छाँटें",
+            "apply": "लागू करना"
+        },
+        "profilePage": {
+            "profile": "प्रोफ़ाइल",
+            "edit": "संपादित करें",
+            "applyCoupon": "कूपन लागू करें",
+            "manageAddress": "पता प्रबंधित करें",
+            "favourites": "पसंदीदा",
+            "language": "बोली",
+            "paymentMethods": "भुगतान की विधि",
+            "wallet": "बटुआ",
+            "orderedFoodz": "ऑर्डर किया गया खाना",
+            "support": "सहायता",
+            "help": "नियम एवं शर्तें",
+            "logout": "लॉग आउट",
+            "orderHistory": "आदेश इतिहास",
+            "trackYourOrder": "अपने आदेश को देखो"
+        },
+        "profileEditPage": {
+            "profileEdit": "प्रोफ़ाइल संपादित करें",
+            "editAccount": "खाता संपादित करें",
+            "name": "नाम",
+            "mobileNo": "मोबाइल नहीं है",
+            "email": "ईमेल",
+            "update": "अद्यतन"
+        },
+        "searchPage": {
+            "cook": "रसोइया",
+            "dish": "खाना",
+            "mins": "मिनट",
+            "pleaseSearchYourFoodzPreference": "कृपया अपनी खाद्य वरीयता खोजें",
+            "preparationTime": "तैयारी का समय",
+            "priceHighToLow": "कीमत उच्च से निम्न",
+            "priceLowToHigh": "कीमतों का उतार - चढ़ाव",
+            "sortBy": "तरह"
+        },
+        "signUpPage": {
+            "registration": "पंजीकरण",
+            "firstName": "पहला नाम",
+            "firstNameErr": "कृपया पहला नाम दर्ज करें *",
+            "lastName": "उपनाम",
+            "lastNameErr": "कृपया अंतिम नाम दर्ज करें *",
+            "emailId": "ईमेल आईडी",
+            "emailIvalidErr": "कृपया वैध ईमेल दर्ज़ करें",
+            "emailErr": "कृपया ईमेल दर्ज करें *",
+            "proceed": "आगे बढ़ना"
+        },
+        "supportPage": {
+            "profileEdit": "प्रोफ़ाइल संपादित करें",
+            "name": "नाम",
+            "emailId": "ईमेल आईडी",
+            "mobileNo": "मोबाइल नहीं है",
+            "message": "संदेश",
+            "proceed": "आगे बढ़ना"
+        },
+        "termsConditionsPage": {
+            "termsConditions": "नियम एवं शर्तें"
+        },
+        "walletPage": {
+            "addMoney": "पैसे जोड़ें",
+            "homlyFoodsMoney": "घरेलू खाद्य पदार्थ पैसा",
+            "homlyFoodsText": "घरेलू खाद्य पदार्थों का उपयोग केवल आपके भोजन के आदेश के लिए किया जा सकता है.",
+            "totalBalance": "कुल शेष",
+            "wallet": "बटुआ"
+        },
+        "orderedListPage": {
+            "delivered": "पहुंचा दिया",
+            "orderId": "आदेश ID  :",
+            "pickedUp": "उठाया",
+            "prepared": "बना हुआ",
+            "trackYourOrder": "अपने आदेश को देखो",
+            "underPreparation": "तैयारी के अधीन",
+            "waiting": "इंतज़ार कर रही"
+        },
+        "cartPage": {
+            "applyCoupon": "कूपन लागू करें",
+            "changeAddress": "पता बदल जाना",
+            "checkOut": "चेक आउट",
+            "deliverTo": "करने के लिए वितरित",
+            "deliveryCharge": "डिलीवरी चार्ज",
+            "discount": "छूट",
+            "itemTotal": "कुल वस्तुएँ",
+            "mins": "मिनट",
+            "priceDetails": "            मूल्य विवरण",
+            "tax": "कर",
+            "totalAmount": "कुल राशि",
+            "useWallet": "वॉलेट का उपयोग करें",
+            "walletAmount": "वॉलेट राशि",
+            "walletBalance": "वॉलेट बैलेंस"
+        }
+    }
+}

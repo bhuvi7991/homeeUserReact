@@ -1,0 +1,239 @@
+{
+    "translation": {
+        "headerPage": {
+            "homelyFood": "ಮನೆಯ ಆಹಾರ",
+            "welcomeBack": "ಮರಳಿ ಸ್ವಾಗತ",
+            "profile": "ವಿವರ"
+        },
+        "bottomTabPage": {
+            "home": "ಮನೆ",
+            "search": "ಹುಡುಕಿ",
+            "cart": "ಕಾರ್ಟ್",
+            "account": "ಖಾತೆ"
+        },
+        "homePage": {
+            "km": "ಕಿಮೀ",
+            "mins": "ನಿಮಿಷಗಳು",
+            "tryHomelyFoodz": "ಹೋಮ್ಲಿ ಫುಡ್ಸ್ ಪ್ರಯತ್ನಿಸಿ",
+            "popularFoods": "ಜನಪ್ರಿಯ ಆಹಾರಗಳು",
+            "couponsForYou": "ನಿಮಗಾಗಿ ಕೂಪನ್‌ಗಳು",
+            "quickFilter": "ತ್ವರಿತ ಫಿಲ್ಟರ್",
+            "trySomethingNew": "ಹೊಸದನ್ನು ಪ್ರಯತ್ನಿಸಿ",
+            "topRatedCooks": "ಉನ್ನತ ದರ್ಜೆಯ ಅಡುಗೆಯವರು",
+            "cookNearByYou": "ನಿಮ್ಮ ಹತ್ತಿರ ಬೇಯಿಸಿ",
+            "seeAll": "ಎಲ್ಲವನ್ನೂ ನೋಡು"
+        },
+        "addressPage": {
+            "deliveryLocation": "ಇದು ನಿಮ್ಮ ವಿತರಣಾ ಸ್ಥಳವಾಗಿರುತ್ತದೆ",
+            "streetErr": "ದಯವಿಟ್ಟು ಬೀದಿಯನ್ನು ನಮೂದಿಸಿ *",
+            "confirmAddress": "ವಿಳಾಸವನ್ನು ಖಾತರಿಪಡಿಸಿ"
+        },
+        "cartDetailPage": {
+            "cart": "ಕಾರ್ಟ್",
+            "add": "ಸೇರಿಸಿ",
+            "applyCoupon": "ಕೂಪನ್ ಅನ್ನು ಅನ್ವಯಿಸಿ",
+            "priceDetails": "ಬೆಲೆ ವಿವರಗಳು"
+        },
+        "favouritesPage": {
+            "favourites": "ಮೆಚ್ಚಿನವುಗಳು",
+            "tryHomelyFoodz": "ಹೋಮ್ಲಿ ಫುಡ್ಸ್ ಪ್ರಯತ್ನಿಸಿ"
+        },
+        "foodDetailPage": {
+            "mins": "ನಿಮಿಷಗಳು",
+            "deliveryTime": "ವಿತರಣಾ ಸಮಯ",
+            "costForTwo": "ಇಬ್ಬರಿಗೆ ವೆಚ್ಚ",
+            "recommended": "ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ",
+            "specializedFood": "ವಿಶೇಷ ಆಹಾರ",
+            "add": "ಸೇರಿಸಿ",
+            "items": "ವಸ್ತುಗಳು",
+            "viewCart": "ಕಾರ್ಟ್ ವೀಕ್ಷಿಸಿ",
+            "unserviceable": "ಬಳಸಲಾಗದ"
+        },
+        "languagePage": {
+            "language": "ಭಾಷೆಗಳು",
+            "tamil": "ತಮಿಳು",
+            "english": "ಆಂಗ್ಲ",
+            "hindi": "ಹಿಂದಿ",
+            "malayalam": "ಮಲಯಾಳಂ",
+            "telugu": "ತೆಲುಗು",
+            "kannada": "ಕನ್ನಡ",
+            "proceed": "ಮುಂದುವರೆಯಲು"
+        },
+        "logInPage": {
+            "welcomeBack": "ಮರಳಿ ಸ್ವಾಗತ",
+            "signIntoContinue": "ಮುಂದುವರಿಯಲು ಸೈನ್ ಇನ್ ಮಾಡಿ",
+            "mobileNo": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+            "proceed": "ಮುಂದುವರೆಯಲು"
+        },
+        "notificationPage": {
+            "notification": "ಅಧಿಸೂಚನೆ"
+        },
+        "orderedFoodzPage": {
+            "favourites": "ಮೆಚ್ಚಿನವುಗಳು",
+            "orderId": "ಆರ್ಡರ್ ಐಡಿ  :",
+            "date": "ದಿನಾಂಕ :",
+            "quantity": " ಪ್ರಮಾಣ :",
+            "deliveryStatus": "ವಿತರಣಾ ಸ್ಥಿತಿ",
+            "transactionStatus": "ವಹಿವಾಟು ಸ್ಥಿತಿ",
+            "transactionType": "ವಹಿವಾಟು ಪ್ರಕಾರ",
+            "transactionId": "ವಹಿವಾಟು ಐಡಿ"
+        },
+        "orderReportPage": {
+            "orderReport": "ಆದೇಶ ವರದಿ",
+            "from": "ನಿಂದ",
+            "upTo": "ತನಕ",
+            "orderId": "ಆರ್ಡರ್ ಐಡಿ :"
+        },
+        "otpPage": {
+            "back": "ಹಿಂದೆ",
+            "verifyYourMobileNo": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಪರಿಶೀಲಿಸಿ",
+            "enterYourOtpHere": "ನಿಮ್ಮ OTP ಯನ್ನು ಇಲ್ಲಿ ನಮೂದಿಸಿ",
+            "proceed": "ಮುಂದುವರೆಯಲು",
+            "resendOtp": "OTP ಮರು ಕಳುಹಿಸಿ"
+        },
+        "productListPage": {
+            "trySomthingNewAtHomelyFoodz": "ಹೋಮ್ಲಿ ಫುಡ್‌ಗಳಲ್ಲಿ ಹೊಸದನ್ನು ಪ್ರಯತ್ನಿಸಿ",
+            "useCode": "ಕೋಡ್ ಬಳಸಿ :",
+            "homelyFoodzNearby": "ಹತ್ತಿರದ ಮನೆಯ ಆಹಾರಗಳು",
+            "sortOrFilter": "ವಿಂಗಡಿಸು / ಫಿಲ್ಟರ್",
+            "tryHomelyFoodz": "ಹೋಮ್ಲಿ ಫುಡ್ಸ್ ಪ್ರಯತ್ನಿಸಿ",
+            "clearAll": "ಎಲ್ಲವನ್ನೂ ತೆಗೆ",
+            "sort": "ವಿಂಗಡಿಸು",
+            "foodzType": "ಆಹಾರ ವಿಧ",
+            "cuisines": "ತಿನಿಸುಗಳು",
+            "sortByPrice": "ಬೆಲೆಯ ಪ್ರಕಾರ ವಿಂಗಡಿಸಿ",
+            "apply": "ಅನ್ವಯಿಸು"
+        },
+        "profilePage": {
+            "profile": "ವಿವರ",
+            "edit": "ತಿದ್ದು",
+            "applyCoupon": "ಕೂಪನ್ ಅನ್ನು ಅನ್ವಯಿಸಿ",
+            "manageAddress": "ವಿಳಾಸವನ್ನು ನಿರ್ವಹಿಸಿ",
+            "favourites": "ಮೆಚ್ಚಿನವುಗಳು",
+            "language": "ಭಾಷೆಗಳು",
+            "paymentMethods": "ಪಾವತಿ ವಿಧಾನಗಳು",
+            "wallet": "ವಾಲೆಟ್",
+            "orderedFoodz": "ಆರ್ಡರ್ ಮಾಡಿದ ಆಹಾರಗಳು",
+            "support": "ಬೆಂಬಲ",
+            "help": "ನಿಯಮ ಮತ್ತು ಶರತ್ತುಗಳು",
+            "logout": "ಲಾಗ್ ಔಟ್",
+            "orderHistory": "ಆದೇಶ ಇತಿಹಾಸ",
+            "trackYourOrder": "ನಿಮ್ಮ ಆದೇಶವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ"
+        },
+        "profileEditPage": {
+            "profileEdit": "ಪ್ರೊಫೈಲ್ ಎಡಿಟ್",
+            "editAccount": "ಖಾತೆಯನ್ನು ಸಂಪಾದಿಸಿ",
+            "name": "ಹೆಸರು",
+            "mobileNo": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+            "email": "ಇಮೇಲ್",
+            "update": "ನವೀಕರಿಸಿ"
+        },
+        "signUpPage": {
+            "registration": "ನೋಂದಣಿ",
+            "firstName": "ಮೊದಲ ಹೆಸರು",
+            "firstNameErr": "ದಯವಿಟ್ಟು ಮೊದಲ ಹೆಸರನ್ನು ನಮೂದಿಸಿ *",
+            "lastName": "ಕೊನೆಯ ಹೆಸರು",
+            "lastNameErr": "ದಯವಿಟ್ಟು ಕೊನೆಯ ಹೆಸರನ್ನು ನಮೂದಿಸಿ *",
+            "emailId": "ಇ-ಮೇಲ್ ಐಡಿ",
+            "emailIvalidErr": "ದಯವಿಟ್ಟು ಮಾನ್ಯ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+            "emailErr": "ದಯವಿಟ್ಟು ಇಮೇಲ್ ನಮೂದಿಸಿ *",
+            "proceed": "ಮುಂದುವರೆಯಲು"
+        },
+        "supportPage": {
+            "profileEdit": "ಪ್ರೊಫೈಲ್ ಎಡಿಟ್",
+            "name": "ಹೆಸರು",
+            "emailId": "ಇಮೇಲ್ ಐಡಿ",
+            "mobileNo": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+            "message": "ಸಂದೇಶ",
+            "proceed": "ಮುಂದುವರೆಯಲು"
+        },
+        "termsConditionsPage": {
+            "termsConditions": "ನಿಯಮ ಮತ್ತು ಶರತ್ತುಗಳು"
+        },
+        "addMoneyPage": {
+            "addMoney": "ಹಣವನ್ನು ಸೇರಿಸಿ",
+            "enterAmount": "ಮೊತ್ತವನ್ನು ನಮೂದಿಸಿ *",
+            "note": "ಸೂಚನೆ : ",
+            "proceedToAdd": "ಸೇರಿಸಲು ಮುಂದುವರಿಯಿರಿ",
+            "rbi": "ಆರ್‌ಬಿಐ ಮಾರ್ಗಸೂಚಿಗಳ ಪ್ರಕಾರ ಹೋಮ್ಲಿ ಫುಡ್ಸ್ ಹಣವನ್ನು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ವರ್ಗಾಯಿಸಲಾಗುವುದಿಲ್ಲ.",
+            "youCanAddUpto": "ವರೆಗೆ ಸೇರಿಸಬಹುದು : ₹ 5000",
+            "yourWalletBalance": "ನಿಮ್ಮ ವಾಲೆಟ್ ಬ್ಯಾಲೆನ್ಸ್"
+        },
+        "addressChoosePage": {
+            "addAddress": "ವಿಳಾಸವನ್ನು ಸೇರಿಸಿ",
+            "chooseAddress": "ವಿಳಾಸವನ್ನು ಆರಿಸಿ"
+        },
+        "cartPage": {
+            "applyCoupon": "ಕೂಪನ್ ಅನ್ನು ಅನ್ವಯಿಸಿ",
+            "changeAddress": "ವಿಳಾಸವನ್ನು ಬದಲಾಯಿಸಿ",
+            "checkOut": "ಪರಿಶೀಲಿಸಿ",
+            "deliverTo": "ಗೆ ತಲುಪಿಸಿ",
+            "deliveryCharge": "ವಿತರಣಾ ಶುಲ್ಕ",
+            "discount": "ರಿಯಾಯಿತಿ",
+            "itemTotal": "ಐಟಂ ಒಟ್ಟು",
+            "mins": "ನಿಮಿಷಗಳು",
+            "priceDetails": "ಬೆಲೆ ವಿವರಗಳು",
+            "tax": "ತೆರಿಗೆ",
+            "totalAmount": "ಒಟ್ಟು ಬೆಲೆ",
+            "useWallet": "ವಾಲೆಟ್ ಬಳಸಿ",
+            "walletAmount": "ವಾಲೆಟ್ ಮೊತ್ತ",
+            "walletBalance": "ವಾಲೆಟ್ ಬ್ಯಾಲೆನ್ಸ್"
+        },
+        "cookSeeAllPage": {
+            "back": "ಹಿಂದೆ",
+            "tryHomelyFoodz": "ಹೋಮ್ಲಿ ಫುಡ್ಸ್ ಪ್ರಯತ್ನಿಸಿ"
+        },
+        "couponDetailsPage": {
+            "couponDetails": "ಕೂಪನ್ ವಿವರಗಳು"
+        },
+        "languagesPage": {
+            "back": "ಹಿಂದೆ",
+            "selectYourLanguage": "ನಿಮ್ಮ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ",
+            "submit": "ಸಲ್ಲಿಸು"
+        },
+        "manageAddressPage": {
+            "manageAddress": "ವಿಳಾಸವನ್ನು ನಿರ್ವಹಿಸಿ"
+        },
+        "orderedListPage": {
+            "delivered": "ತಲುಪಿಸಲಾಗಿದೆ",
+            "orderId": "ಆರ್ಡರ್ ಐಡಿ  :",
+            "pickedUp": "ತೆಗೆದುಕೊಂಡೆ",
+            "prepared": "ತಯಾರಾದ",
+            "trackYourOrder": "ನಿಮ್ಮ ಆದೇಶವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ",
+            "underPreparation": "ತಯಾರಿ ಅಡಿಯಲ್ಲಿ",
+            "waiting": "ಕಾಯುತ್ತಿದೆ"
+        },
+        "orderStepsPage": {
+            "cookAcceptedYourOrder": "ಕುಕ್ ನಿಮ್ಮ ಆದೇಶವನ್ನು ಸ್ವೀಕರಿಸಿದರು",
+            "dunzoPickedYourOrder": "ಡಂಜೋ ನಿಮ್ಮ ಆದೇಶವನ್ನು ಆರಿಸಿಕೊಂಡರು",
+            "estimatedTime": "ಅಂದಾಜು ಸಮಯ",
+            "mins": "ನಿಮಿಷಗಳು",
+            "orderConfirmed": "ಆದೇಶವನ್ನು ದೃ .ೀಕರಿಸಲಾಗಿದೆ",
+            "orderDelivered": "ಆದೇಶವನ್ನು ತಲುಪಿಸಲಾಗಿದೆ",
+            "orderId": "ಆರ್ಡರ್ ಐಡಿ",
+            "orderPlaces": "ಆದೇಶ ಸ್ಥಳಗಳು",
+            "orderReport": "ಆದೇಶ ವರದಿ",
+            "pickedUp": "ತೆಗೆದುಕೊಂಡೆ",
+            "trackYourOrder": "ನಿಮ್ಮ ಆದೇಶವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ",
+            "weHaveReceivedyourOrder": "ನಾವು ನಿಮ್ಮ ಆದೇಶವನ್ನು ಸ್ವೀಕರಿಸಿದ್ದೇವೆ",
+            "yourOrderHasBeenDelivered": "ನಿಮ್ಮ ಆದೇಶವನ್ನು ತಲುಪಿಸಲಾಗಿದೆ"
+        },
+        "searchPage": {
+            "cook": "ಅಡುಗೆ",
+            "dish": "ಆಹಾರ",
+            "mins": "ನಿಮಿಷಗಳು",
+            "pleaseSearchYourFoodzPreference": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಆಹಾರದ ಆದ್ಯತೆಯನ್ನು ಹುಡುಕಿ",
+            "preparationTime": "ತಯಾರಿ ಸಮಯ",
+            "priceHighToLow": "ಬೆಲೆ ಹೆಚ್ಚು ಕಡಿಮೆ",
+            "priceLowToHigh": "ಬೆಲೆ ಕಡಿಮೆಗಿಂತ ಹೆಚ್ಚಿನದು",
+            "sortBy": "ವಿಂಗಡಿಸು"
+        },
+        "walletPage": {
+            "addMoney": "ಹಣವನ್ನು ಸೇರಿಸಿ",
+            "homlyFoodsMoney": "ಹೋಮ್ಲಿ ಫುಡ್ಸ್ ಮನಿ",
+            "homlyFoodsText": "ಹೋಮ್ಲಿ ಫುಡ್‌ಗಳನ್ನು ನಿಮ್ಮ ಆಹಾರ ಆದೇಶಗಳಿಗಾಗಿ ಮಾತ್ರ ಬಳಸಬಹುದು.",
+            "totalBalance": "ಒಟ್ಟು ಬ್ಯಾಲೆನ್ಸ್",
+            "wallet": "ವಾಲೆಟ್"
+        }
+    }
+}

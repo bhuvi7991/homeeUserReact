@@ -1,0 +1,239 @@
+{
+    "translation": {
+        "headerPage": {
+            "homelyFood": "வீட்டு உணவு",
+            "welcomeBack": "மீண்டும் வருக",
+            "profile": "சுயவிவரம்"
+        },
+        "bottomTabPage": {
+            "home": "வீடு",
+            "search": "தேடு",
+            "cart": "வண்டி",
+            "account": "கணக்கு"
+        },
+        "homePage": {
+            "km": "கிமீ",
+            "mins": "நிமிடங்கள்",
+            "tryHomelyFoodz": "ஹோம்லி ஃபுட்ஸை முயற்சிக்கவும்",
+            "popularFoods": "பிரபலமான உணவுகள்",
+            "couponsForYou": "உங்களுக்கான கூப்பன்கள்",
+            "quickFilter": "விரைவு வடிகட்டி",
+            "trySomethingNew": "புதியதை முயற்சிக்கவும்",
+            "topRatedCooks": "சிறந்த மதிப்பிடப்பட்ட சமையல்காரர்கள்",
+            "cookNearByYou": "உங்களுக்கு அருகில் சமையல்காரர்கள்",
+            "seeAll": "அனைத்தையும் பார்"
+        },
+        "addressPage": {
+            "deliveryLocation": "இது உங்கள் விநியோக இடமாக இருக்கும்",
+            "streetErr": "தெருவின் பெயரை உள்ளிடவும் *",
+            "confirmAddress": "முகவரியை உறுதிப்படுத்தவும்"
+        },
+        "cartDetailPage": {
+            "cart": "வண்டி",
+            "add": "சேர்",
+            "applyCoupon": "கூப்பனைப் பயன்படுத்துங்கள்",
+            "priceDetails": "விலை விவரங்கள்"
+        },
+        "favouritesPage": {
+            "favourites": "பிடித்தவை",
+            "tryHomelyFoodz": "ஹோம்லி ஃபுட்ஸைப் பயன்படுத்துங்கள்"
+        },
+        "foodDetailPage": {
+            "mins": "நிமிடங்கள்",
+            "deliveryTime": "விநியோக நேரம்",
+            "costForTwo": "இருவருக்கான செலவு",
+            "recommended": "பரிந்துரைக்கப்பட்டது",
+            "specializedFood": "சிறப்பு உணவு",
+            "add": "சேர்",
+            "items": "உணவுகள்",
+            "viewCart": "வண்டியைப் பார்க்கவும்",
+            "unserviceable": "சேவை செய்ய முடியாதது"
+        },
+        "languagePage": {
+            "language": "மொழிகள்",
+            "tamil": "தமிழ்",
+            "english": "ஆங்கிலம்",
+            "hindi": "இந்தி",
+            "malayalam": "மலையாளம்",
+            "telugu": "தெலுங்கு",
+            "kannada": "கன்னடம்",
+            "proceed": "தொடரவும்"
+        },
+        "logInPage": {
+            "welcomeBack": "மீண்டும் வருக",
+            "signIntoContinue": "தொடர உள்நுழைக",
+            "mobileNo": "தொலைபேசி எண்",
+            "proceed": "தொடரவும்"
+        },
+        "notificationPage": {
+            "notification": "அறிவிப்பு"
+        },
+        "orderedFoodzPage": {
+            "favourites": "பிடித்தவை",
+            "orderId": "ஆர்டர் ஐடி  :",
+            "date": "தேதி :",
+            "quantity": "எண்ணிக்கை :",
+            "deliveryStatus": "விநியோக நிலை ",
+            "transactionStatus": "பரிவர்த்தனை நிலை",
+            "transactionType": "பரிவர்த்தனை வகை",
+            "transactionId": "பரிவர்த்தனை ஐடி"
+        },
+        "orderReportPage": {
+            "orderReport": "ஆர்டர் வரலாறு",
+            "from": "இருந்து",
+            "upTo": "வரை",
+            "orderId": "ஆர்டர் ஐடி :"
+        },
+        "otpPage": {
+            "back": "பின்செல்",
+            "verifyYourMobileNo": "உங்கள் மொபைல் எண்ணைச் சரிபார்க்கவும்",
+            "enterYourOtpHere": "உங்கள் OTP ஐ இங்கே உள்ளிடவும்",
+            "proceed": "தொடரவும்",
+            "resendOtp": "OTP ஐ மீண்டும் அனுப்பவும்"
+        },
+        "productListPage": {
+            "trySomthingNewAtHomelyFoodz": "ஹோம்லி ஃபுட்ஸில் புதிதாக ஒன்றை முயற்சிக்கவும்",
+            "useCode": "கூப்பனை பயன்படுத்தவும் :",
+            "homelyFoodzNearby": "அருகிலுள்ள ஹோம்லி ஃபுட்ஸ்",
+            "sortOrFilter": "வகைபடுத்து / வடிகட்டி",
+            "tryHomelyFoodz": "ஹோம்லி ஃபுட்ஸைப் பயன்படுத்துங்கள்",
+            "clearAll": "அனைத்தையும் அழி",
+            "sort": "வகைபடுத்து",
+            "foodzType": "உணவு வகை",
+            "cuisines": "உணவு வகைகள்",
+            "sortByPrice": "விலை அடிப்படையில் வரிசைப்படுத்து",
+            "apply": "பயன்படுத்து"
+        },
+        "profilePage": {
+            "profile": "சுயவிவரம்",
+            "edit": "திருத்து",
+            "applyCoupon": "கூப்பனைப் பயன்படுத்துங்கள்",
+            "manageAddress": "முகவரியை நிர்வகிக்கவும்",
+            "favourites": "பிடித்தவை",
+            "language": "மொழிகள்",
+            "paymentMethods": "பணம் செலுத்தும் முறைகள்",
+            "wallet": "பணப்பை",
+            "orderedFoodz": "ஆர்டர் செய்யப்பட்ட உணவுகள்",
+            "support": "ஆதரவு",
+            "help": "விதிமுறைகளும் நிபந்தனைகளும்",
+            "logout": "வெளியேறு",
+            "orderHistory": "ஆர்டர் வரலாறு",
+            "trackYourOrder": "உங்கள் ஆர்டரை கண்காணிக்கவும்"
+        },
+        "profileEditPage": {
+            "profileEdit": "சுயவிவரத் திருத்தம்",
+            "editAccount": "கணக்கைத் திருத்து",
+            "name": "பெயர்",
+            "mobileNo": "தொலைபேசி எண்",
+            "email": "மின்னஞ்சல்",
+            "update": "புதுப்பி"
+        },
+        "signUpPage": {
+            "registration": "பதிவு",
+            "firstName": "முதல் பெயர்",
+            "firstNameErr": "முதல் பெயரை உள்ளிடவும் *",
+            "lastName": "கடைசி பெயர்",
+            "lastNameErr": "கடைசி பெயரை உள்ளிடவும் *",
+            "emailId": "மின்னஞ்சல் முகவரி",
+            "emailIvalidErr": "சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும்",
+            "emailErr": "மின்னஞ்சல் முகவரியை உள்ளிடவும் *",
+            "proceed": "தொடரவும்"
+        },
+        "supportPage": {
+            "profileEdit": "சுயவிவரத் திருத்தம்",
+            "name": "பெயர்",
+            "emailId": "மின்னஞ்சல் முகவரி",
+            "mobileNo": "தொலைபேசி எண்",
+            "message": "செய்தி",
+            "proceed": "தொடரவும்"
+        },
+        "termsConditionsPage": {
+            "termsConditions": "விதிமுறைகளும் நிபந்தனைகளும்"
+        },
+        "addMoneyPage": {
+            "addMoney": "பணம் சேர்க்கவும்",
+            "enterAmount": "தொகையை உள்ளிடவும் *",
+            "note": "குறிப்பு : ",
+            "proceedToAdd": "சேர்க்க தொடரவும்",
+            "rbi": "ரிசர்வ் வங்கி வழிகாட்டுதலின்படி ஹோம்லி ஃபுட்ஸ் பணத்தை உங்கள் வங்கிக் கணக்கில் மாற்ற முடியாது.",
+            "youCanAddUpto": "வரை நீங்கள் சேர்க்கலாம் : ₹ 5000",
+            "yourWalletBalance": "உங்கள் பணப்பை இருப்பு"
+        },
+        "addressChoosePage": {
+            "addAddress": "முகவரியைச் சேர்க்கவும்",
+            "chooseAddress": "முகவரியைத் தேர்வு செய்யவும்"
+        },
+        "cartPage": {
+            "applyCoupon": "கூப்பனைப் பயன்படுத்துங்கள்",
+            "changeAddress": "முகவரியை மாற்றுக",
+            "checkOut": "சரிபார்",
+            "deliverTo": "வழங்க",
+            "deliveryCharge": "            விநியோக கட்டணம்",
+            "discount": "தள்ளுபடி",
+            "itemTotal": "பொருள் மொத்தம்",
+            "mins": "நிமிடங்கள்",
+            "priceDetails": "விலை விவரங்கள்",
+            "tax": "வரி",
+            "totalAmount": "மொத்த விலை",
+            "useWallet": "வாலட் பயன்படுத்தவும்",
+            "walletAmount": "வாலட் தொகை",
+            "walletBalance": "வாலட் இருப்பு"
+        },
+        "cookSeeAllPage": {
+            "back": "பின்செல்",
+            "tryHomelyFoodz": "வீட்டு உணவுகளை முயற்சிக்கவும்"
+        },
+        "couponDetailsPage": {
+            "couponDetails": "            கூப்பன் விவரங்கள்"
+        },
+        "languagesPage": {
+            "back": "பின்செல்",
+            "selectYourLanguage": "உங்கள் மொழியைத் தேர்ந்தெடுக்கவும்",
+            "submit": "சமர்ப்பிக்கவும்"
+        },
+        "manageAddressPage": {
+            "manageAddress": "முகவரியை நிர்வகிக்கவும்"
+        },
+        "orderedListPage": {
+            "delivered": "வழங்கப்பட்டது",
+            "orderId": "ஆர்டர் ஐடி  :",
+            "pickedUp": "எடுத்து கொள்ளப்பட்டது",
+            "prepared": "தயார் செய்யப்பட்டது",
+            "trackYourOrder": "உங்கள் ஆர்டரை கண்காணிக்கவும்",
+            "underPreparation": "தயாரிப்பின் கீழ்",
+            "waiting": "காத்திருக்கிறது"
+        },
+        "orderStepsPage": {
+            "cookAcceptedYourOrder": "குக் உங்கள் ஆர்டரை ஏற்றுக்கொண்டார்",
+            "dunzoPickedYourOrder": "டன்சோ உங்கள் ஆர்டரைத் தேர்ந்தெடுத்தார்",
+            "estimatedTime": "கணிக்கப்பட்ட நேரம்",
+            "mins": "நிமிடங்கள்",
+            "orderConfirmed": "உத்தரவு உறுதி செய்யப்பட்டது",
+            "orderDelivered": "ஆர்டர் வழங்கப்பட்டது",
+            "orderId": "ஆர்டர் ஐடி",
+            "orderPlaces": "ஆர்டர் இடங்கள்",
+            "orderReport": "ஆர்டர் அறிக்கை",
+            "pickedUp": "எடுத்து கொள்ளப்பட்டது",
+            "trackYourOrder": "உங்கள் ஆர்டரை கண்காணிக்கவும்",
+            "weHaveReceivedyourOrder": "உங்கள் ஆணையைப் பெற்றுள்ளோம்",
+            "yourOrderHasBeenDelivered": "உங்கள் ஆர்டர் வழங்கப்பட்டது"
+        },
+        "searchPage": {
+            "cook": "சமையல்காரர்",
+            "dish": "உணவு",
+            "mins": "நிமிடங்கள்",
+            "pleaseSearchYourFoodzPreference": "உங்கள் உணவு விருப்பத்தைத் தேடுங்கள்",
+            "preparationTime": "தயாரிப்பு நேரம்",
+            "priceHighToLow": "விலை அதிகமாக இருந்து குறைவாக",
+            "priceLowToHigh": "விலை குறைந்த முதல் அதிக",
+            "sortBy": "வரிசைப்படுத்து"
+        },
+        "walletPage": {
+            "addMoney": "பணம் சேர்க்கவும்",
+            "homlyFoodsMoney": "வீட்டு உணவுகள் பணம்",
+            "homlyFoodsText": "வீட்டு உணவு உங்கள் உணவு ஆர்டர்களுக்கு மட்டுமே பயன்படுத்த முடியும்.",
+            "totalBalance": "மொத்த இருப்பு",
+            "wallet": "பணப்பை"
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "translation": {
+        "headerPage": {
+            "homelyFood": "ఇంటి ఆహారం",
+            "welcomeBack": "పునఃస్వాగతం",
+            "profile": "ప్రొఫైల్"
+        },
+        "bottomTabPage": {
+            "home": "హోమ్",
+            "search": "వెతకండి",
+            "cart": "బండి",
+            "account": "ఖాతా"
+        },
+        "homePage": {
+            "km": "కి.మీ",
+            "mins": "నిమిషాలు",
+            "tryHomelyFoodz": "హోమ్లీ ఫుడ్స్ ప్రయత్నించండి",
+            "popularFoods": "పాపులర్ ఫుడ్స్",
+            "couponsForYou": "మీ కోసం కూపన్లు",
+            "quickFilter": "త్వరిత ఫిల్టర్",
+            "trySomethingNew": "క్రొత్తదాన్ని ప్రయత్నించండి",
+            "topRatedCooks": "టాప్ రేటింగ్ కుక్స్",
+            "cookNearByYou": "మీకు సమీపంలోనే వంట చేస్తుంది",
+            "seeAll": "అన్నింటిని చూడు"
+        },
+        "addressPage": {
+            "deliveryLocation": "ఇది మీ డెలివరీ ప్రదేశం",
+            "streetErr": "దయచేసి వీధిలోకి ప్రవేశించండి *",
+            "confirmAddress": "చిరునామా ధృవీకరించండి"
+        },
+        "cartDetailPage": {
+            "cart": "బండి",
+            "add": "జోడించు",
+            "applyCoupon": "కూపన్ వర్తించు",
+            "priceDetails": "ధర వివరాలు"
+        },
+        "favouritesPage": {
+            "favourites": "ఇష్టమైనవి",
+            "tryHomelyFoodz": "హోమ్లీ ఫుడ్స్ ప్రయత్నించండి"
+        },
+        "foodDetailPage": {
+            "mins": "నిమిషాలు",
+            "deliveryTime": "డెలివరీ సమయం",
+            "costForTwo": "ఇద్దరి కోసం ఖర్చు",
+            "recommended": "సిఫార్సు చేయబడింది",
+            "specializedFood": "ప్రత్యేక ఆహారం",
+            "add": "జోడించు",
+            "items": "అంశాలు",
+            "viewCart": "కార్ట్ చూడండి",
+            "unserviceable": "సేవ చేయలేనిది"
+        },
+        "languagePage": {
+            "language": "భాషలు",
+            "tamil": "తమిళ",
+            "english": "ఆంగ్ల",
+            "hindi": "హిందీ",
+            "malayalam": "మలయాళం",
+            "telugu": "తెలుగు",
+            "kannada": "కన్నడ",
+            "proceed": "కొనసాగండి"
+        },
+        "logInPage": {
+            "welcomeBack": "పునఃస్వాగతం",
+            "signIntoContinue": "కొనసాగడానికి సైన్ ఇన్ చేయండి",
+            "mobileNo": "మొబైల్ నెం",
+            "proceed": "కొనసాగండి"
+        },
+        "notificationPage": {
+            "notification": "నోటిఫికేషన్"
+        },
+        "orderedFoodzPage": {
+            "favourites": "ఇష్టమైనవి",
+            "orderId": "ఆర్డర్ గుర్తింపు సంఖ్యా  :",
+            "date": "తేదీ :",
+            "quantity": " పరిమాణం :",
+            "deliveryStatus": "డెలివరీ స్థితిని",
+            "transactionStatus": "లావాదేవీ స్థితి",
+            "transactionType": "లావాదేవీ రకం",
+            "transactionId": "లావాదేవి ఐడి"
+        },
+        "orderReportPage": {
+            "orderReport": "ఆర్డర్ నివేదిక",
+            "from": "నుండి",
+            "upTo": "వరకు",
+            "orderId": "ఆర్డర్ గుర్తింపు సంఖ్యా :"
+        },
+        "otpPage": {
+            "back": "తిరిగి",
+            "verifyYourMobileNo": "మీ మొబైల్ నెంబరును ధృవీకరించండి",
+            "enterYourOtpHere": "మీ OTP ని ఇక్కడ నమోదు చేయండి",
+            "proceed": "కొనసాగండి",
+            "resendOtp": "OTP ను మళ్ళీ పంపు"
+        },
+        "productListPage": {
+            "trySomthingNewAtHomelyFoodz": "హోమ్లీ ఫుడ్స్‌లో కొత్తదాన్ని ప్రయత్నించండి",
+            "useCode": "కోడ్ ఉపయోగించండి :",
+            "homelyFoodzNearby": "సమీపంలోని హోమ్లీ ఫుడ్స్",
+            "sortOrFilter": "క్రమీకరించు / ఫిల్టర్ చేయండి",
+            "tryHomelyFoodz": "హోమ్లీ ఫుడ్స్ ప్రయత్నించండి",
+            "clearAll": "అన్నీ క్లియర్ చేయండి",
+            "sort": "క్రమీకరించు",
+            "foodzType": "ఆహార రకం",
+            "cuisines": "వంటకాలు",
+            "sortByPrice": "ధర ద్వారా క్రమీకరించు",
+            "apply": "వర్తించు"
+        },
+        "profilePage": {
+            "profile": "ప్రొఫైల్",
+            "edit": "సవరించు",
+            "applyCoupon": "కూపన్ వర్తించు",
+            "manageAddress": "చిరునామాను నిర్వహించండి",
+            "favourites": "ఇష్టమైనవి",
+            "language": "భాషలు",
+            "paymentMethods": "చెల్లింపు పద్ధతులు",
+            "wallet": "వాలెట్",
+            "orderedFoodz": "ఆర్డర్ చేసిన ఫుడ్స్",
+            "support": "మద్దతు",
+            "help": "నిబంధనలు & షరతులు",
+            "logout": "లాగ్ అవుట్",
+            "orderHistory": "ఆర్డర్ చరిత్ర",
+            "trackYourOrder": "మీ ఆర్డర్‌ని ట్రాక్ చేయండి"
+        },
+        "profileEditPage": {
+            "profileEdit": "ప్రొఫైల్ ఎడిట్",
+            "editAccount": "ఖాతాను సవరించండి",
+            "name": "పేరు",
+            "mobileNo": "మొబైల్ నెం",
+            "email": "ఇమెయిల్",
+            "update": "అప్‌డేట్"
+        },
+        "signUpPage": {
+            "registration": "నమోదు",
+            "firstName": "మొదటి పేరు",
+            "firstNameErr": "దయచేసి మొదటి పేరు నమోదు చేయండి *",
+            "lastName": "చివరి పేరు",
+            "lastNameErr": "దయచేసి చివరి పేరు నమోదు చేయండి *",
+            "emailId": "ఇమెయిల్ ID",
+            "emailIvalidErr": "దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ నమోదు చేయండి",
+            "emailErr": "దయచేసి ఇమెయిల్ నమోదు చేయండి *",
+            "proceed": "కొనసాగండి"
+        },
+        "supportPage": {
+            "profileEdit": "ప్రొఫైల్ ఎడిట్",
+            "name": "పేరు",
+            "emailId": "ఇమెయిల్ ఐడి",
+            "mobileNo": "మొబైల్ నెం",
+            "message": "సందేశం",
+            "proceed": "కొనసాగండి"
+        },
+        "termsConditionsPage": {
+            "termsConditions": "నిబంధనలు షరతులు"
+        },
+        "addMoneyPage": {
+            "addMoney": "డబ్బు జోడించండి",
+            "enterAmount": "మొత్తాన్ని నమోదు చేయండి *",
+            "note": "గమనిక : ",
+            "proceedToAdd": "జోడించడానికి కొనసాగండి",
+            "rbi": "RBI మార్గదర్శకాల ప్రకారం హోమ్లీ ఫుడ్స్ డబ్బు మీ బ్యాంక్ ఖాతాకు బదిలీ చేయబడదు.",
+            "youCanAddUpto": "మీరు వరకు జోడించవచ్చు: ₹ 5000",
+            "yourWalletBalance": "మీ వాలెట్ బ్యాలెన్స్"
+        },
+        "addressChoosePage": {
+            "addAddress": "చిరునామాను జోడించండి",
+            "chooseAddress": "చిరునామాను ఎంచుకోండి"
+        },
+        "cartPage": {
+            "applyCoupon": "కూపన్ వర్తించు",
+            "changeAddress": "చిరునామాను మార్చండి",
+            "checkOut": "తనిఖీ చేయండి",
+            "deliverTo": "బట్వాడా",
+            "deliveryCharge": "డెలివరీ ఛార్జ్",
+            "discount": "డిస్కౌంట్",
+            "itemTotal": "అంశం మొత్తం",
+            "mins": "నిమిషాలు",
+            "priceDetails": "ధర వివరాలు",
+            "tax": "పన్ను",
+            "totalAmount": "మొత్తం మొత్తం",
+            "useWallet": "వాలెట్ ఉపయోగించండి",
+            "walletAmount": "వాలెట్ మొత్తం",
+            "walletBalance": "వాలెట్ బ్యాలెన్స్"
+        },
+        "cookSeeAllPage": {
+            "back": "తిరిగి",
+            "tryHomelyFoodz": "హోమ్లీ ఫుడ్స్ ప్రయత్నించండి"
+        },
+        "couponDetailsPage": {
+            "couponDetails": "కూపన్ వివరాలు"
+        },
+        "languagesPage": {
+            "back": "తిరిగి",
+            "selectYourLanguage": "మీ భాషను ఎంచుకోండి",
+            "submit": "సమర్పించండి"
+        },
+        "manageAddressPage": {
+            "manageAddress": "చిరునామాను నిర్వహించండి"
+        },
+        "orderedListPage": {
+            "delivered": "బట్వాడా చేయబడింది",
+            "orderId": "ఆర్డర్ గుర్తింపు సంఖ్యా  :",
+            "pickedUp": "కైవసం చేసుకుంది",
+            "prepared": "సిద్ధం",
+            "trackYourOrder": "మీ ఆర్డర్‌ని ట్రాక్ చేయండి",
+            "underPreparation": "తయారీ కింద",
+            "waiting": "వేచి ఉంది"
+        },
+        "orderStepsPage": {
+            "cookAcceptedYourOrder": "కుక్ మీ ఆర్డర్‌ను అంగీకరించారు",
+            "dunzoPickedYourOrder": "డన్జో మీ ఆర్డర్‌ను ఎంచుకున్నారు",
+            "estimatedTime": "అంచనా వేసిన సమయం",
+            "mins": "నిమిషాలు",
+            "orderConfirmed": "ఆర్డర్ నిర్ధారించబడింది",
+            "orderDelivered": "ఆర్డర్ బట్వాడా చేయబడింది",
+            "orderId": "ఆర్డర్ గుర్తింపు సంఖ్యా",
+            "orderPlaces": "ఆర్డర్ ప్రదేశాలు",
+            "orderReport": "ఆర్డర్ నివేదిక",
+            "pickedUp": "కైవసం చేసుకుంది",
+            "trackYourOrder": "మీ ఆర్డర్‌ని ట్రాక్ చేయండి",
+            "weHaveReceivedyourOrder": "మేము మీ ఆర్డర్‌ను స్వీకరించాము",
+            "yourOrderHasBeenDelivered": "మీ ఆర్డర్ బట్వాడా చేయబడింది"
+        },
+        "searchPage": {
+            "cook": "కుక్",
+            "dish": "ఆహారం",
+            "mins": "నిమిషాలు",
+            "pleaseSearchYourFoodzPreference": "దయచేసి మీ ఆహార ప్రాధాన్యతను శోధించండి",
+            "preparationTime": "తయారీ సమయం",
+            "priceHighToLow": "ధర ఎక్కువ నుండి తక్కువ",
+            "priceLowToHigh": "ధర తక్కువ నుండి అధికం",
+            "sortBy": "క్రమీకరించు"
+        },
+        "walletPage": {
+            "addMoney": "డబ్బు జోడించండి",
+            "homlyFoodsMoney": "హోమ్లీ ఫుడ్స్ మనీ",
+            "homlyFoodsText": "హోమ్లీ ఫుడ్స్ మీ ఫుడ్ ఆర్డర్‌ల కోసం మాత్రమే ఉపయోగించబడతాయి.",
+            "totalBalance": "మొత్తం బ్యాలెన్స్",
+            "wallet": "వాలెట్"
+        }
+    }
+}

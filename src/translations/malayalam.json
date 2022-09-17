@@ -1,0 +1,239 @@
+{
+    "translation": {
+        "headerPage": {
+            "homelyFood": "ഗാർഹിക ഭക്ഷണം",
+            "welcomeBack": "തിരികെ സ്വാഗതം",
+            "profile": "പ്രൊഫൈൽ"
+        },
+        "bottomTabPage": {
+            "home": "വീട്",
+            "search": "തിരയുക",
+            "cart": "കാർട്ട്",
+            "account": "അക്കൗണ്ട്"
+        },
+        "homePage": {
+            "km": "കി.മീ",
+            "mins": "മിനിറ്റ്",
+            "tryHomelyFoodz": "ഹോംലി ഫുഡുകൾ പരീക്ഷിക്കുക",
+            "popularFoods": "ജനപ്രിയ ഭക്ഷണങ്ങൾ",
+            "couponsForYou": "നിങ്ങൾക്കുള്ള കൂപ്പണുകൾ",
+            "quickFilter": "ദ്രുത ഫിൽട്ടർ",
+            "trySomethingNew": "പുതിയ എന്തെങ്കിലും പരീക്ഷിക്കുക",
+            "topRatedCooks": "മികച്ച റേറ്റിംഗ് ഉള്ള പാചകക്കാർ",
+            "cookNearByYou": "നിങ്ങളുടെ അടുത്തുള്ള പാചകക്കാർ",
+            "seeAll": "എല്ലാം കാണൂ"
+        },
+        "addressPage": {
+            "deliveryLocation": "ഇത് നിങ്ങളുടെ ഡെലിവറി ലൊക്കേഷൻ ആയിരിക്കും",
+            "streetErr": "ദയവായി തെരുവിലേക്ക് പ്രവേശിക്കുക *",
+            "confirmAddress": "മേല്വിലാസം സ്ഥിരീകരിക്കുക"
+        },
+        "cartDetailPage": {
+            "cart": "കാർട്ട്",
+            "add": "ചേർക്കുക",
+            "applyCoupon": "കൂപ്പൺ പ്രയോഗിക്കുക",
+            "priceDetails": "വില വിശദാംശങ്ങൾ"
+        },
+        "favouritesPage": {
+            "favourites": "പ്രിയപ്പെട്ടവ",
+            "tryHomelyFoodz": "ഹോംലി ഫുഡുകൾ പരീക്ഷിക്കുക"
+        },
+        "foodDetailPage": {
+            "mins": "മിനിറ്റ്",
+            "deliveryTime": "ഡെലിവറി സമയം",
+            "costForTwo": "രണ്ടിനുള്ള ചെലവ്",
+            "recommended": "ശുപാർശ ചെയ്ത",
+            "specializedFood": "പ്രത്യേക ഭക്ഷണം",
+            "add": "ചേർക്കുക",
+            "items": "ഇനങ്ങൾ",
+            "viewCart": "സഞ്ചി കാണുക",
+            "unserviceable": "Unserviceable"
+        },
+        "languagePage": {
+            "language": "ഭാഷകൾ",
+            "tamil": "തമിഴ്",
+            "english": "ഇംഗ്ലീഷ്",
+            "hindi": "ഹിന്ദി",
+            "malayalam": "മലയാളം",
+            "telugu": "തെലുങ്ക്",
+            "kannada": "കന്നഡ",
+            "proceed": "തുടരുക"
+        },
+        "logInPage": {
+            "welcomeBack": "തിരികെ സ്വാഗതം",
+            "signIntoContinue": "തുടരാൻ സൈൻ ഇൻ ചെയ്യുക",
+            "mobileNo": "മൊബൈൽ നമ്പർ",
+            "proceed": "തുടരുക"
+        },
+        "notificationPage": {
+            "notification": "വിജ്ഞാപനം"
+        },
+        "orderedFoodzPage": {
+            "favourites": "പ്രിയപ്പെട്ടവ",
+            "orderId": "ഓർഡർ ഐഡി  :",
+            "date": "തീയതി :",
+            "quantity": " അളവ് :",
+            "deliveryStatus": "ഡെലിവറി നില",
+            "transactionStatus": "ഇടപാട് നില",
+            "transactionType": "ഇടപാട് തരം",
+            "transactionId": "ഇടപാട് ഐഡി"
+        },
+        "orderReportPage": {
+            "orderReport": "ഓർഡർ റിപ്പോർട്ട്",
+            "from": "മുതൽ",
+            "upTo": "വരെ",
+            "orderId": "ഓർഡർ ഐഡി :"
+        },
+        "otpPage": {
+            "back": "തിരികെ",
+            "verifyYourMobileNo": "നിങ്ങളുടെ മൊബൈൽ നമ്പർ പരിശോധിക്കുക",
+            "enterYourOtpHere": "നിങ്ങളുടെ OTP ഇവിടെ നൽകുക",
+            "proceed": "തുടരുക",
+            "resendOtp": "OTP വീണ്ടും അയയ്ക്കുക"
+        },
+        "productListPage": {
+            "trySomthingNewAtHomelyFoodz": "ഹോംലി ഫുഡുകളിൽ പുതിയ എന്തെങ്കിലും പരീക്ഷിക്കുക",
+            "useCode": "കോഡ് ഉപയോഗിക്കുക :",
+            "homelyFoodzNearby": "അടുത്തുള്ള ഹോംലി ഫുഡുകൾ",
+            "sortOrFilter": "അടുക്കുക / ഫിൽട്ടർ ചെയ്യുക",
+            "tryHomelyFoodz": "ഹോംലി ഫുഡുകൾ പരീക്ഷിക്കുക",
+            "clearAll": "എല്ലാം മായ്ക്കുക",
+            "sort": "അടുക്കുക",
+            "foodzType": "ഭക്ഷണ തരം",
+            "cuisines": "പാചകരീതികൾ",
+            "sortByPrice": "വില അനുസരിച്ച് അടുക്കുക",
+            "apply": "അപേക്ഷിക്കുക"
+        },
+        "profilePage": {
+            "profile": "പ്രൊഫൈൽ",
+            "edit": "എഡിറ്റ് ചെയ്യുക",
+            "applyCoupon": "കൂപ്പൺ പ്രയോഗിക്കുക",
+            "manageAddress": "വിലാസം നിയന്ത്രിക്കുക",
+            "favourites": "പ്രിയപ്പെട്ടവ",
+            "language": "ഭാഷകൾ",
+            "paymentMethods": "പേയ്മെന്റ് രീതികൾ",
+            "wallet": "വാലറ്റ്",
+            "orderedFoodz": "ഓർഡർ ചെയ്ത ഭക്ഷണങ്ങൾ",
+            "support": "പിന്തുണ",
+            "help": "നിബന്ധനകളും വ്യവസ്ഥകളും",
+            "logout": "ലോഗൗട്ട്",
+            "orderHistory": "ഓർഡർ ചരിത്രം",
+            "trackYourOrder": "നിങ്ങളുടെ ഓർഡർ ട്രാക്കുചെയ്യൂ"
+        },
+        "profileEditPage": {
+            "profileEdit": "പ്രൊഫൈൽ എഡിറ്റ്",
+            "editAccount": "അക്കൗണ്ട് എഡിറ്റ് ചെയ്യുക",
+            "name": "പേര്",
+            "mobileNo": "മൊബൈൽ നമ്പർ",
+            "email": "ഇമെയിൽ",
+            "update": "അപ്ഡേറ്റ് ചെയ്യുക"
+        },
+        "signUpPage": {
+            "registration": "രജിസ്ട്രേഷൻ",
+            "firstName": "പേരിന്റെ ആദ്യഭാഗം",
+            "firstNameErr": "ദയവായി ആദ്യനാമം നൽകുക *",
+            "lastName": "പേരിന്റെ അവസാന ഭാഗം",
+            "lastNameErr": "ദയവായി അവസാന നാമം നൽകുക *",
+            "emailId": "ഇ - മെയിൽ ഐഡി",
+            "emailIvalidErr": "സാധുവായ ഇമെയിൽ നൽകുക",
+            "emailErr": "ദയവായി ഇമെയിൽ നൽകുക *",
+            "proceed": "തുടരുക"
+        },
+        "supportPage": {
+            "profileEdit": "പ്രൊഫൈൽ എഡിറ്റ്",
+            "name": "പേര്",
+            "emailId": "ഇ - മെയിൽ ഐഡി",
+            "mobileNo": "മൊബൈൽ നമ്പർ",
+            "message": "സന്ദേശം",
+            "proceed": "തുടരുക"
+        },
+        "termsConditionsPage": {
+            "termsConditions": "നിബന്ധനകൾ"
+        },
+        "addMoneyPage": {
+            "addMoney": "പണം ചേർക്കുക",
+            "enterAmount": "തുക നൽകുക *",
+            "note": "കുറിപ്പ് : ",
+            "proceedToAdd": "ചേർക്കാൻ തുടരുക",
+            "rbi": "ആർബിഐ മാർഗ്ഗനിർദ്ദേശങ്ങൾ അനുസരിച്ച് ഹോംലി ഫുഡ്സ് പണം നിങ്ങളുടെ ബാങ്ക് അക്കൗണ്ടിലേക്ക് ട്രാൻസ്ഫർ ചെയ്യാൻ കഴിയില്ല.",
+            "youCanAddUpto": "നിങ്ങൾക്ക് വരെ ചേർക്കാൻ കഴിയും : ₹ 5000",
+            "yourWalletBalance": "നിങ്ങളുടെ വാലറ്റ് ബാലൻസ്"
+        },
+        "addressChoosePage": {
+            "addAddress": "വിലാസം ചേർക്കുക",
+            "chooseAddress": "വിലാസം തിരഞ്ഞെടുക്കുക"
+        },
+        "cartPage": {
+            "applyCoupon": "കൂപ്പൺ പ്രയോഗിക്കുക",
+            "changeAddress": "വിലാസം മാറ്റുക",
+            "checkOut": "ചെക്ക് ഔട്ട്",
+            "deliverTo": "എത്തിക്കുക",
+            "deliveryCharge": "ഡെലിവറി ചാർജ്",
+            "discount": "കിഴിവ്",
+            "itemTotal": "ഇനം ആകെ",
+            "mins": "മിനിറ്റ്",
+            "priceDetails": "വില വിശദാംശങ്ങൾ",
+            "tax": "നികുതി",
+            "totalAmount": "മൊത്തം തുകകൾ",
+            "useWallet": "വാലറ്റ് ഉപയോഗിക്കുക",
+            "walletAmount": "വാലറ്റ് തുക",
+            "walletBalance": "വാലറ്റ് ബാലൻസ്"
+        },
+        "cookSeeAllPage": {
+            "back": "പിൻസെൽ",
+            "tryHomelyFoodz": "ഹോംലി ഫുഡുകൾ പരീക്ഷിക്കുക"
+        },
+        "couponDetailsPage": {
+            "couponDetails": "കൂപ്പൺ വിശദാംശങ്ങൾ"
+        },
+        "languagesPage": {
+            "back": "പിൻസെൽ",
+            "selectYourLanguage": "നിങ്ങളുടെ ഭാഷ തിരഞ്ഞെടുക്കുക",
+            "submit": "സമർപ്പിക്കുക"
+        },
+        "manageAddressPage": {
+            "manageAddress": "വിലാസം നിയന്ത്രിക്കുക"
+        },
+        "orderedListPage": {
+            "delivered": "കൈമാറി",
+            "orderId": "ഓർഡർ ഐഡി :",
+            "pickedUp": "എടുത്തു",
+            "prepared": "തയ്യാറാക്കിയത്",
+            "trackYourOrder": "നിങ്ങളുടെ ഓർഡർ ട്രാക്കുചെയ്യൂ",
+            "underPreparation": "തയ്യാറെടുപ്പിന് കീഴിൽ",
+            "waiting": "കാത്തിരിക്കുന്നു"
+        },
+        "orderStepsPage": {
+            "cookAcceptedYourOrder": "കുക്ക് നിങ്ങളുടെ ഓർഡർ സ്വീകരിച്ചു",
+            "dunzoPickedYourOrder": "ഡൺസോ നിങ്ങളുടെ ഓർഡർ തിരഞ്ഞെടുത്തു",
+            "estimatedTime": "കണക്കാക്കിയ സമയം",
+            "mins": "മിനിറ്റ്",
+            "orderConfirmed": "ഓർഡർ സ്ഥിരീകരിച്ചു",
+            "orderDelivered": "ഓർഡർ കൈമാറി",
+            "orderId": "ഓർഡർ ഐഡി",
+            "orderPlaces": "ഓർഡർ സ്ഥലങ്ങൾ",
+            "orderReport": "           ഓർഡർ റിപ്പോർട്ട്",
+            "pickedUp": "എടുത്തു",
+            "trackYourOrder": "നിങ്ങളുടെ ഓർഡർ ട്രാക്കുചെയ്യൂ",
+            "weHaveReceivedyourOrder": "ഞങ്ങൾക്ക് നിങ്ങളുടെ ഓർഡർ ലഭിച്ചു",
+            "yourOrderHasBeenDelivered": "നിങ്ങളുടെ ഓർഡർ ഡെലിവർ ചെയ്തു"
+        },
+        "searchPage": {
+            "cook": "കുക്ക്",
+            "dish": "ഭക്ഷണം",
+            "mins": "മിനിറ്റ്",
+            "pleaseSearchYourFoodzPreference": "നിങ്ങളുടെ ഭക്ഷണ മുൻഗണന തിരയുക",
+            "preparationTime": "തയ്യാറെടുപ്പ് സമയം",
+            "priceHighToLow": "വില ഉയർന്നത് മുതൽ താഴ്ന്നത് വരെ",
+            "priceLowToHigh": "വില താഴ്ന്ന് ഉയർന്നത്",
+            "sortBy": "അടുക്കുക"
+        },
+        "walletPage": {
+            "addMoney": "പണം ചേർക്കുക",
+            "homlyFoodsMoney": "ഹോംലി ഫുഡ്സ് മണി",
+            "homlyFoodsText": "ഹോംലി ഫുഡുകൾ നിങ്ങളുടെ ഭക്ഷണ ഓർഡറുകൾക്ക് മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ.",
+            "totalBalance": "ആകെ ബാലൻസ്",
+            "wallet": "വാലറ്റ്"
+        }
+    }
+}
